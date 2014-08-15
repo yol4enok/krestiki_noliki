@@ -1,0 +1,40 @@
+.tik_tak_table{
+	width:120px;
+	margin: auto;
+	border: 1px solid #000000;
+	background: #f0e3f0;
+	border-radius:  5px;
+}
+.td{
+	width:30px;
+	height: 30px;
+	margin: auto;
+	border: 1px solid #000000;
+	font: bold italic 120% serif ;
+	background: #f0e3f0;
+	color: rgb(49, 151, 116);
+	text-align: center;
+}
+.Start{
+	margin: auto;
+}
+.Start button{
+	height: 40px;
+	width:120px;
+	border: 1px solid #ddfdee;
+	background: #a2a2a3;
+	text-align: center;
+	box-shadow:inset 0px -5px 5px #5f6dee;
+	font-size: 22px;
+	font: bold italic 180% serif;
+	background: -webkit-gradient(linear, 0 0, 0 100%, from(#00BBD6), to(#EBFFFF));
+	border-radius:  5px;
+}
+.Result{
+	text-align: center;
+	background: #a2a2a3;
+	font-size: 10px;
+	font: bold italic 180% serif;
+
+
+}
